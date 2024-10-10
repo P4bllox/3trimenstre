@@ -2,6 +2,18 @@ h1{
     text-align: center;
 }
 body{
-    backgound-color; grey
+    background-color: aliceblue;
+}
+h1{
+   font-size: x-large;
+}
+h2{
+    font-size: smaller;
+}
+h3{
+    font-size: smaller;
+}
+h4{
+    font-size: x-large;
 }
 
